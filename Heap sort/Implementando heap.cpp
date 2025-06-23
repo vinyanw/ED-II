@@ -95,7 +95,7 @@ int main(int argc, char const *argv[])
 
     while (1)
     {
-        printf("====== Heap Sort Simulator ======\n");
+        printf("\n\n====== Heap Sort Simulator ======\n");
         printf("1 - inicializa tamanho do vetor\n");
         printf("2 - aleatoriza o vetor\n");
         printf("3 - printa o vetor\n");
